@@ -5,7 +5,7 @@ I am a Software Developer, seeking a junior role in the field.
 - Completed a Web Development Bootcamp post-graduation.
 
 ## 👨‍💻 Skills & Technologies 
-<img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50"/>
 <img src="https://devicon.dev/devicon.git/icons/c/c-line.svg" alt="C" width="50"/>
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
